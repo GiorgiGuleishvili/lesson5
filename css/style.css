@@ -169,13 +169,33 @@ a{
 	letter-spacing: 0.9px;
 }
 
+.build1{
+	margin-top: 75px;
+	margin-left: 130px;
+	margin-right: 50px;
+}
+
+.build2{
+	margin-right: 50px;
+}
 
 
+.star1{
+	margin-left: 150px;
+}
 
 
-
-
-
+.hotel1{
+	color: #000;
+	margin-left: 130px;
+	margin-top: 30px;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.2px;
+}
 
 
 
